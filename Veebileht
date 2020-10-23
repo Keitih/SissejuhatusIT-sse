@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Webpage</title>
+</head>
+
+<body>
+
+<img src="https://scontent-hel3-1.xx.fbcdn.net/v/t1.0-9/52744587_10156990929054144_6254302905096994816_n.png?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_ohc=A_y4xkaj1WcAX_M1Ld_&_nc_ht=scontent-hel3-1.xx&oh=1a5aa49a3ea1827c9a94c6317c319ee8&oe=5FBA3DF8" alt="TalTech logo">
+
+
+
+<a href="https://www.taltech.ee/">TalTech</a>
+
+<h2> Minu semestri õppeained </h2>
+<p>
+
+<table style="width:70%">
+  <tr>
+    <th>Õppeaine</th>
+    <th>EAP</th>
+  </tr>
+  <tr>
+    <td>Sissejuhatus infotehnoloogiasse</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Programmeerimise algkursus</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Majandus</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Operatsioonisüsteemide haldamine</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Diskreetne matemaatika</td>
+    <td>6</td>
+  </tr>
+</table>
+
+<h3>Minu martriklinumber on 202845</h3>
+
+<p>Esimesel semestril õpitavatest ainetest on kõige mahukam programmeerimise kursus, õpitavaks programmeerimiskeeleks on Python. Järgmisel semestril ootab ees Java.</p>
+
+</body>
+</html>
